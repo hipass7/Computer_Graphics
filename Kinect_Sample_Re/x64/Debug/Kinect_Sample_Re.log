@@ -1,0 +1,64 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(gltest.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  backup.cpp
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\Library\lodepng.c(3268,70): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\Library\lodepng.c(4201,43): warning C4267: '=': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\Library\loadpng.c(7,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(172,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(181,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(358,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(495,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(495,16): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(496,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(496,16): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(497,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(497,16): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(498,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(498,16): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(499,16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.h(499,16): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(413,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(414,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(415,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(416,21): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(418,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(419,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(422,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(462,18): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(468,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(474,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(476,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(478,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(480,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(530,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(532,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(534,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(536,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(540,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(542,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(544,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(546,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(550,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(552,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(554,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(556,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(579,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(581,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(583,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(585,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(594,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(596,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(601,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(609,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(612,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(618,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(621,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(623,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(628,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(637,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(646,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(647,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(434,19): warning C4101: 'm1' :참조되지 않은 지역 변수입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(438,16): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(438,13): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\Kinect_Sample_Re\backup.cpp(438,10): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  Kinect_Sample_Re.vcxproj -> C:\Users\qjsro\Desktop\인회 복학1\컴퓨터그래픽스\gltest1_s\x64\Debug\gltest1.exe
